@@ -7,4 +7,4 @@ output = 0
 for i in range(len(inputs)):
     output += inputs[i] * weights[i]
 output += bias
-print(output) # Should print 2.3
+print(output) # Should print 4.8
